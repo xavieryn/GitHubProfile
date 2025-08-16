@@ -1,25 +1,144 @@
-<h1 align="center">Hi 👋, I'm Xavier Nishikawa</h1>
-<h3 align="center">A passionate college student at Olin College of Engineering bringing ideas to real life</h3>
 
-- 🔭 I’m currently working at [Barn Owl Technologies](https://www.barnowltechnologies.com/) pushing insect detection models to production to inform farmers when to spray pesticides!
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Xavier+Nishikawa;Computer+Vision+Engineer;Full-Stack+Developer;Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **AWS and Docker**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://xavieryn.vercel.app/](https://xavieryn.vercel.app/)
+## 🚀 About Me
 
-- 💬 Ask me about **CV, Python, AWS, React, Swift**
+```typescript
+const xavier = {
+    pronouns: "he/him",
+    location: "Olin College of Engineering 🏫",
+    currentRole: "Software Engineering Intern @ Barn Owl Technologies",
+    mission: "Bringing ideas to real life 🌾",
+    languages: ["English", "Spanish 🇪🇸", "Japanese 🇯🇵"],
+    hobbies: ["📸 Photography", "🎬 Videography", "🌍 Language Learning"],
+    funFact: "I help farmers decide when to spray pesticides using AI! 🦉"
+};
+```
 
-- 📫 How to reach me **xavier.nishikawa@gmail.com**
+---
 
-- ⚡ Fun fact **I like learning languages (Spanish & Japanese) and enjoy videography and photography**
+## 🎯 Current Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/xavier nishikawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xavier nishikawa" height="30" width="40" /></a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🔬 **Professional Work**
+- 🦉 **Barn Owl Technologies** - Deploying insect detection models
+- 🚀 Building production-ready CV systems
+- 📊 Helping farmers optimize pesticide usage
+
+</td>
+<td width="50%">
+
+### 📚 **Learning Journey**
+- ☁️ **AWS Cloud Architecture**
+- 🐳 **Docker Containerization** 
+- 🤖 **Advanced Computer Vision**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### AI/ML & Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Design & Creative
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+</div>
+
+---
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=xavieryn&repo=portfolio&theme=tokyonight)](https://xavieryn.vercel.app/)
+
+*🌟 Check out my full portfolio at [xavieryn.vercel.app](https://xavieryn.vercel.app/)*
+
+</div>
+
+---
+
+## 🌍 Beyond Code
+
+<table>
+<tr>
+<td width="33%">
+
+### 📸 **Visual Storytelling**
+Capturing moments through photography and videography, turning everyday scenes into compelling narratives.
+
+</td>
+<td width="33%">
+
+### 🗣️ **Language Explorer**
+Currently diving deep into Spanish and Japanese, believing that language opens doors to understanding different cultures and perspectives.
+
+</td>
+<td width="33%">
+
+### 🌾 **AgTech Impact**
+Passionate about using technology to solve real-world agricultural challenges and help farmers make data-driven decisions.
+
+</td>
+</tr>
+</table>
+
+---
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xavieryn&" alt="xavieryn" /></p>
+## 🤝 Let's Connect!
+
+<div align="center">
+
+### 💌 **Get In Touch**
+
+[![Email](https://img.shields.io/badge/Email-xavier.nishikawa@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xavier.nishikawa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Xavier%20Nishikawa-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xavier-nishikawa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-xavieryn.vercel.app-green?style=for-the-badge&logo=vercel&logoColor=white)](https://xavieryn.vercel.app/)
+
+
+<div align="center">
+  
+**⭐ From [xavieryn](https://github.com/xavieryn) | Built with ❤️ and lots of ☕**
+
+</div>
+
+---
