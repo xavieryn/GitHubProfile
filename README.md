@@ -27,7 +27,7 @@ const xavier = {
 <td width="50%">
 
 ### 🔬 **Professional Work**
-- 🦉 **Barn Owl Technologies** - Creating & Deploying insect detection models on AWS using Docker
+- 🦉 **Barn Owl Technologies** - Creating & deploying insect detection models on AWS using Docker
 - 🚀 Building production-ready CV systems
 - 📊 Helping farmers optimize pesticide usage
 
@@ -151,34 +151,35 @@ const xavier = {
 ---
 ## 🎨 Outside of Coding
 
-### 📸 **Visual Storytelling**
-Capturing moments through photography and videography, turning everyday scenes into compelling narratives.
+### 📸 **Photography and Videography**
+[![Instagram](https://img.shields.io/badge/Olin-admissionandfinaid-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/olin_admissionandfinaid/)
+[![Instagram](https://img.shields.io/badge/Photography-yama.clicks-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yama.clicks/)
+
+Capturing moments through photography and videography, running the Olin Financial Aid and Admissions Instagram as well as just posting photos I think looks good on my personal photography account!
 
 </td>
 <td width="25%">
 
-### 🗣️ **Language Explorer**
-Currently diving deep into Spanish and Japanese, believing that language opens doors to understanding different cultures and perspectives.
+### 🗣️ **Languages**
+Currently diving deep into Spanish and Japanese. Wanikani lvl 58 fiend (iykyk) and addicted to spanish social media. Have gone to Japan (2 months) and Mexico (1 month) to learn!
 
 </td>
 <td width="25%">
 
 ### 🎨 **Arts**
-I love all types of arts, except for drawing and painting (well I am just not good at them). I love music and fashion, have been playing guitar and wearing baggy pants for about five years.
+I love all types of arts, except for drawing and painting (well tbh I am just not good at them). I love music and fashion, have been playing guitar and wearing baggy pants for about five years.
 
 </td>
 <td width="25%">
 
 ### 💪 **Fitness**
-Fitness has always been a big part of me, and right now lifting is my primary exercise! I bench at least 10 pounds 💪.
+Fitness has always been a big part of me, and right now lifting is my primary form of exercise! I bench at least 10 pounds 💪.
 
 </td>
 </tr>
 </table>
 
 ---
-
-## 🤝 Let's Connect!
 
 <div align="center">
 
@@ -194,4 +195,3 @@ Fitness has always been a big part of me, and right now lifting is my primary ex
 
 </div>
 
----
