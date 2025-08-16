@@ -1,7 +1,6 @@
-
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Xavier+Nishikawa;Computer+Vision+Engineer;Full-Stack+Developer;Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Xavier+Nishikawa;Hola%2C+me+llamo+Xavier+Nishikawa;%E3%83%A4%E3%83%9E%E3%83%88%E8%A5%BF%E5%B7%9D%E3%81%A7%E3%81%99;Passionate+Computer+Science+Student)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,10 +11,10 @@ const xavier = {
     pronouns: "he/him",
     location: "Olin College of Engineering 🏫",
     currentRole: "Software Engineering Intern @ Barn Owl Technologies",
-    mission: "Bringing ideas to real life 🌾",
+    mission: "Creating code that actually makes a difference 🌾",
     languages: ["English", "Spanish 🇪🇸", "Japanese 🇯🇵"],
-    hobbies: ["📸 Photography", "🎬 Videography", "🌍 Language Learning"],
-    funFact: "I help farmers decide when to spray pesticides using AI! 🦉"
+    hobbies: ["📸 Photography", "🎬 Videography", "🌍 Language Learning", "🏋️ Lifting"],
+    funFact: "I played varsity football and wanted to play in college, until I got injured... Now I code instead. "
 };
 ```
 
@@ -28,7 +27,7 @@ const xavier = {
 <td width="50%">
 
 ### 🔬 **Professional Work**
-- 🦉 **Barn Owl Technologies** - Deploying insect detection models
+- 🦉 **Barn Owl Technologies** - Creating & Deploying insect detection models on AWS using Docker
 - 🚀 Building production-ready CV systems
 - 📊 Helping farmers optimize pesticide usage
 
@@ -60,6 +59,7 @@ const xavier = {
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -86,43 +86,97 @@ const xavier = {
 
 ## 🎨 Featured Projects
 
-<div align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=xavieryn&repo=portfolio&theme=tokyonight)](https://xavieryn.vercel.app/)
-
-*🌟 Check out my full portfolio at [xavieryn.vercel.app](https://xavieryn.vercel.app/)*
-
-</div>
-
----
-
-## 🌍 Beyond Code
-
 <table>
 <tr>
-<td width="33%">
+<td width="100%">
+
+### 🦉 **Barn Owl Technologies**
+[![Website](https://img.shields.io/badge/Visit-barnowltechnologies.com-purple?style=flat-square&logo=safari&logoColor=white)](https://www.barnowltechnologies.com/)
+
+**Software Engineering Intern** | Managing the whole process of creating and pushing computer vision models to production at a start up company!
+- 🔍 **Dataset Curation**: Curated and annotated a custom bug detection dataset of 5,000+ images, applying data augmentation to improve model performance under varied lighting and weather conditions
+- ☁️ **AWS Deployment**: Independently deployed trained models on AWS (EC2, S3, Docker ECR), enabling 50+ IoT-connected traps across New England to upload images for real-time inference and bug classification
+- 🗄️ **Data Pipeline**: Managed image and metadata pipeline using PostgreSQL; wrote SQL scripts to organize predictions, track trap performance, and power frontend data display
+- 🤝 **Cross-team Coordination**: Coordinated with app developer and ML advisor to ensure updates were aligned without disrupting codebases
+- 📋 **Note**: Also took photos for the product (click the preorder button on the Barn Owl Technologies website to see!) 
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 📋 **Afora**
+[![GitHub](https://img.shields.io/badge/GitHub-Afora-black?style=flat-square&logo=github&logoColor=white)](https://github.com/We1chJ/Afora)
+[![Website](https://img.shields.io/badge/Visit-afora1.vercel.app-purple?style=flat-square&logo=safari&logoColor=white)](https://afora1.vercel.app/)
+
+**Full-Stack Developer** | Built a full-stack project management app with AI add-ons using OpenAI, React, Firebase, Next.js, Shadcn, and TypeScript
+- 🚀 **Production Deployment**: Deployed the app on Vercel with implemented authentication and storage systems
+- 🔧 **Data Management**: Used React-Firebase-Hooks for efficient real-time data management and state synchronization
+- 💰 **Grant Achievement**: Secured $1,000 from Babson College's Foundry Grant for further development and feature expansion
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🏥 **Pl(ai)Lab**
+[![Article](https://img.shields.io/badge/Read-Olin_Article-blue?style=flat-square&logo=newspaper&logoColor=white)](https://www.olin.edu/articles/story-oliners-collaborate-local-senior-center-artificial-intelligence-ai-and-augmented)
+
+**iOS Developer** | Developed a Swift app using Apple's body pose detection to support cancer rehabilitation for adults 65+
+- 📱 **Swift Development**: Built iOS app with Apple's body pose detection framework for rehabilitation exercises
+- 👥 **User Testing**: Piloted at a senior center and iteratively improved based on participant feedback and usability studies
+- 🤖 **AI Backend**: Built Python backend integrating with OpenAI Realtime API to deliver custom workouts like a physical therapist's guidance
+- 🎤 **Accessibility Focus**: Implemented custom voice function calling to enable full app navigation without requiring touch interaction
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🗣️ **Stuttered Speech ASR Research**
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github&logoColor=white)](https://github.com/dongim04/stuttered-speech-asr)
+[![Article](https://img.shields.io/badge/Read-Olin_Article-blue?style=flat-square&logo=microscope&logoColor=white)](https://www.olin.edu/articles/story-dongim-lee-27-pint-receive-honorable-mention-aaas-presentation) 
+
+**Research Assistant** | Addressed bias in Automatic Speech Recognition (ASR) models against stuttered speech using LibriSpeech/Stutter datasets
+- 🔬 **Bias Analysis**: Identified significant disparities in Word Error Rate (WER) across major ASR models when processing stuttered speech
+- 📊 **Model Evaluation**: OpenAI's Whisper showed a 2x increase in errors, while Facebook's Wav2Vec showed a 6.4x increase
+- 🏆 **Research Recognition**: Helped create research poster for AAAS presentation, receiving an Honorable Mention at the convention
+- 🎯 **Impact Focus**: Contributed to accessibility research highlighting the need for more inclusive AI systems
+
+</td>
+</tr>
+</table>
+
+
+---
+## 🎨 Outside of Coding
 
 ### 📸 **Visual Storytelling**
 Capturing moments through photography and videography, turning everyday scenes into compelling narratives.
 
 </td>
-<td width="33%">
+<td width="25%">
 
 ### 🗣️ **Language Explorer**
 Currently diving deep into Spanish and Japanese, believing that language opens doors to understanding different cultures and perspectives.
 
 </td>
-<td width="33%">
+<td width="25%">
 
-### 🌾 **AgTech Impact**
-Passionate about using technology to solve real-world agricultural challenges and help farmers make data-driven decisions.
+### 🎨 **Arts**
+I love all types of arts, except for drawing and painting (well I am just not good at them). I love music and fashion, have been playing guitar and wearing baggy pants for about five years.
+
+</td>
+<td width="25%">
+
+### 💪 **Fitness**
+Fitness has always been a big part of me, and right now lifting is my primary exercise! I bench at least 10 pounds 💪.
 
 </td>
 </tr>
 </table>
 
 ---
-
 
 ## 🤝 Let's Connect!
 
@@ -133,7 +187,6 @@ Passionate about using technology to solve real-world agricultural challenges an
 [![Email](https://img.shields.io/badge/Email-xavier.nishikawa@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xavier.nishikawa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Xavier%20Nishikawa-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xavier-nishikawa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-xavieryn.vercel.app-green?style=for-the-badge&logo=vercel&logoColor=white)](https://xavieryn.vercel.app/)
-
 
 <div align="center">
   
