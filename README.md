@@ -188,11 +188,9 @@ Fitness has always been a big part of me, and right now lifting is my primary fo
 
 [![Email](https://img.shields.io/badge/Email-xavier.nishikawa@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xavier.nishikawa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Xavier%20Nishikawa-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xavier-nishikawa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-xavieryn.vercel.app-green?style=for-the-badge&logo=vercel&logoColor=white)](https://xavieryn.vercel.app/)
 
 <div align="center">
   
-**⭐ From [xavieryn](https://github.com/xavieryn) | Built with ❤️ and lots of ☕**
 
 </div>
 
