@@ -120,6 +120,7 @@ const xavier = {
 <td width="100%">
 
 ### 🏥 **Pl(ai)Lab**
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github&logoColor=white)](https://github.com/plailab/PMI-IOS.git)
 [![Article](https://img.shields.io/badge/Read-Olin_Article-blue?style=flat-square&logo=newspaper&logoColor=white)](https://www.olin.edu/articles/story-oliners-collaborate-local-senior-center-artificial-intelligence-ai-and-augmented)
 
 **iOS Developer** | Developed a Swift app using Apple's body pose detection to support cancer rehabilitation for adults 65+
